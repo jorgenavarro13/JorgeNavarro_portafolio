@@ -10,8 +10,6 @@ Link del proyecto: [Mi Portafolio Web](https://jorgenavarro13.github.io/JorgeNav
 - JavaScript
 
 ## Video de demostración  
-Mobile Demo.mp4
-![Video de demostración](demo\Mobile_Demo.mp4)
-
-Desktop Demo.mp4
-![Video de demostración](demo\Desktop_Demo.mp4) 
+<video src="demo\Mobile_Demo.mp4" type="video/mp4" width="320" height="240" controls title="Descripción del vídeo">
+  Tu navegador no admite la etiqueta de vídeo.
+</video>
